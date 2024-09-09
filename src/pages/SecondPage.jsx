@@ -14,7 +14,8 @@ const tirthankaras = [
   { id: 9, name: 'GURU STUTI', sanskrit: 'गुरु-स्तुति' },
   { id: 10, name: 'DEV STUTI', sanskrit: 'देव-स्तुति' },
   { id: 11, name: 'JINVANI STUTI', sanskrit: 'जिनवाणी स्तुति' },
-  { id: 12, name: 'TATTVARTHASUTRA', sanskrit: 'तत्त्वार्थसूत्रम् (मोक्षशास्त्रम्)' }
+  { id: 12, name: 'TATTVARTHASUTRA', sanskrit: 'तत्त्वार्थसूत्रम् (मोक्षशास्त्रम्)' },
+  { id: 13, name: 'Adyashtak Stotra', sanskrit: 'अद्याष्टक स्तोत्र' },
 ];
 
 
