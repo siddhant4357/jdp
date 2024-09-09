@@ -29,7 +29,9 @@ const tirthankaras = [
   { id: 24, name: 'नन्दीश्वर द्वीप पूजा', sanskrit: 'Nandishwar Dweep Pooja' },
   { id: 25, name: 'समाधि भक्ति पाठ (तेरी छत्र छाया)', sanskrit: 'Samadhi Bhakti Path (Teri Chhatra Chhaya)' },
   { id: 26, name: 'मंगलाचरण (चौबीस तीर्थंकर)', sanskrit: 'Mangalacharan 24 Thirthankar' },
-  { id: 27, name: 'विनय पाठ', sanskrit: 'Vinay Path' }
+  { id: 27, name: 'विनय पाठ', sanskrit: 'Vinay Path' },
+  { id: 28, name: 'आलोचना पाठ', sanskrit: 'Aalochna Paath' },
+  { id: 29, name: 'स्वस्ति मंगल पाठ ', sanskrit: 'Swasti Mangal Paath' },
 ];
 
 
